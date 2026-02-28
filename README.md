@@ -1,16 +1,10 @@
-# 👋 Hi, I'm Md. Nazmul Islam
+# 👋 Hi there, I'm Nazmul
 
 **Full-Stack Software Engineer | Backend Enthusiast | 5+ Years of Experience**
 
-I am a passionate **Full-Stack Software Engineer** specializing in scalable backend systems and modern frontend development. I design and build high-performance web applications across different domains using cutting-edge technologies and best practices.
-
----
-
 ## 🎯 About Me
 
-With **5+ years of experience**, I develop scalable, secure, and high-performance web applications for SaaS platforms, community management systems, and enterprise solutions. My primary strength is **backend development** with solid frontend expertise, following clean architecture principles and software engineering best practices.
-
----
+Passionate Full-Stack Software Engineer with 5+ years of experience designing and building scalable, high-performance web applications across diverse domains. I specialize in backend systems architecture and modern frontend development, with a proven track record delivering robust solutions for SaaS platforms, community management systems, and enterprise environments. Committed to clean architecture principles, security best practices, and software engineering excellence, I create secure, maintainable systems that drive business impact. Let's build something exceptional together.
 
 ## 🛠️ Tech Stack
 
@@ -40,7 +34,6 @@ With **5+ years of experience**, I develop scalable, secure, and high-performanc
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088F0?style=flat-square&logo=github-actions&logoColor=white)
 ![AWS Cloud](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
----
 
 ## 💼 Professional Experience
 
@@ -78,7 +71,6 @@ With **5+ years of experience**, I develop scalable, secure, and high-performanc
 - **Features**: Student registration, course management, session-wise enrollment, billing system, document management
 - **Monitoring**: Sentry for activity logs and performance consistency
 
----
 
 ### Junior Software Engineer @ **Logic Infotech Ltd.**
 **Sep 2020 - Feb 2022 | Dhaka, Bangladesh**
@@ -107,7 +99,6 @@ With **5+ years of experience**, I develop scalable, secure, and high-performanc
 - **Tech Stack**: Laravel (PHP), MySQL, jQuery, JavaScript, Bootstrap
 - **Features**: Online patient appointments, doctor scheduling, doctor search and services
 
----
 
 ## 📚 Education
 
@@ -115,7 +106,6 @@ With **5+ years of experience**, I develop scalable, secure, and high-performanc
 Pabna University of Science and Technology, Pabna, Bangladesh  
 **Session**: 2014-2015 | **Passing Year**: 2020
 
----
 
 ## 🏆 Publications & Awards
 
@@ -123,7 +113,6 @@ Pabna University of Science and Technology, Pabna, Bangladesh
 - **Conference**: ICCIT-2021, Bangladesh
 - **Award**: Dr. Fatema Rashid Best Paper Award, 2021
 
----
 
 ## 🎯 Key Competencies
 
@@ -151,7 +140,6 @@ Git • Docker • Kubernetes • CI/CD Pipelines• GitHub Actions • Terrafor
 **Design & Architecture:**  
 API Design • Database Design • Performance Optimization • Scalable Patterns • SaaS Platform • Microservices 
 
----
 
 ## 🚀 What I'm Currently Doing
 
@@ -160,7 +148,6 @@ API Design • Database Design • Performance Optimization • Scalable Pattern
 - 👯 Open to collaborating on innovative projects
 - 💬 Happy to discuss backend architecture, system design, and best practices
 
----
 
 ## 📫 Let's Connect!
 
