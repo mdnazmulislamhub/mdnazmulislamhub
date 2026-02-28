@@ -3,7 +3,7 @@
 
 ## 🎯 About Me
 
-Passionate Full-Stack Software Engineer with 5+ years of experience designing and building scalable, high-performance web applications across diverse domains. I specialize in backend systems architecture and modern frontend development, with a proven track record delivering robust solutions for SaaS platforms, community management systems, hospital management systems, education management systems, and enterprise environments. Committed to clean architecture principles, security best practices, and software engineering excellence, I create secure, maintainable systems that drive business impact. Let's build something exceptional together.
+Passionate Full-Stack Software Engineer with 5+ years of experience designing and building scalable, high-performance web applications across diverse domains. I specialize in backend systems architecture and modern frontend development, with a proven track record delivering robust solutions for SaaS platforms, community management systems, hospital management systems, education management systems, and enterprise environments. Committed to clean architecture principles, security best practices, and software engineering excellence, I create secure, maintainable systems that drive business impact.
 
 ## 🛠️ Tech Stack
 
