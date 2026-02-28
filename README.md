@@ -1,6 +1,5 @@
 # 👋 Hi there, I'm Nazmul
 
-**Full-Stack Software Engineer | Backend Enthusiast | 5+ Years of Experience**
 
 ## 🎯 About Me
 
