@@ -13,26 +13,22 @@ Passionate Full-Stack Software Engineer with 5+ years of experience designing an
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
 #### Frontend Development
 ![React.js](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
 #### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
 #### Cloud & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![CI/CD Pipelines](https://img.shields.io/badge/CI%2FCD-Jenkins_ArgoCD-blue?style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088F0?style=flat-square&logo=github-actions&logoColor=white)
 ![AWS Cloud](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-
 
 ## 💼 Professional Experience
 
@@ -98,20 +94,17 @@ Passionate Full-Stack Software Engineer with 5+ years of experience designing an
 - **Tech Stack**: Laravel (PHP), MySQL, jQuery, JavaScript, Bootstrap
 - **Features**: Online patient appointments, doctor scheduling, doctor search and services
 
-
 ## 📚 Education
 
 **B.Sc. in Computer Science and Engineering**  
 Pabna University of Science and Technology, Pabna, Bangladesh  
 **Session**: 2014-2015 | **Passing Year**: 2020
 
-
 ## 🏆 Publications & Awards
 
 📄 **"Hybrid Feature Vector Space-Based Ensemble Machine Learning Approach For Sentiment Analysis on Amazon Product Reviews"**
 - **Conference**: ICCIT-2021, Bangladesh
 - **Award**: Dr. Fatema Rashid Best Paper Award, 2021
-
 
 ## 🎯 Key Competencies
 
@@ -131,14 +124,12 @@ Pabna University of Science and Technology, Pabna, Bangladesh
 
 **Design & Architecture:** API Design • Database Design • Performance Optimization • Scalable Patterns • SaaS Platform • Microservices 
 
-
 ## 🚀 What I'm Currently Doing
 
 - 🔭 Building scalable backend systems for SaaS platforms
 - 🌱 Exploring advanced cloud architecture patterns and Kubernetes optimization
 - 👯 Open to collaborating on innovative projects
 - 💬 Happy to discuss backend architecture, system design, and best practices
-
 
 ## 📫 Let's Connect!
 
