@@ -115,29 +115,21 @@ Pabna University of Science and Technology, Pabna, Bangladesh
 
 ## 🎯 Key Competencies
 
-**Programming Languages:**  
-Node.js • JavaScript • TypeScript • PHP (OOP) • C • C++
+**Programming Languages:** Node.js • JavaScript • TypeScript • PHP (OOP) • C • C++
 
-**Databases:**  
-PostgreSQL • MySQL • MongoDB • Oracle • Redis
+**Databases:** PostgreSQL • MySQL • MongoDB • Oracle • Redis
 
-**Frameworks & Libraries:**  
-NestJS • Express.js • Laravel • Next.js • React.js • Vue.js
+**Frameworks & Libraries:** NestJS • Express.js • Laravel • Next.js • React.js • Vue.js
 
-**API & Integration:**  
-RESTful API • OAuth / JWT Authentication • Webhooks • ORM • Sentry • Algolia • Dozzle
+**API & Integration:** RESTful API • OAuth / JWT Authentication • Webhooks • ORM • Sentry • Algolia • Dozzle
 
-**Payment & Messaging:**  
-Stripe • Twilio • SSLCommerz • SurjoPay • SonaliPay • bKash • Resend • BulkSms BD
+**Payment & Messaging:** Stripe • Twilio • SSLCommerz • SurjoPay • SonaliPay • bKash • Resend • BulkSms BD
 
-**AWS Services:**  
-VPC • EC2 • RDS • S3 • SQS • EKS • DynamoDB • Route 53 • Lambda • API Gateway • CloudWatch
+**AWS Services:** VPC • EC2 • RDS • S3 • SQS • EKS • DynamoDB • Route 53 • Lambda • API Gateway • CloudWatch
 
-**DevOps & Infrastructure:**  
-Git • Docker • Kubernetes • CI/CD Pipelines• GitHub Actions • Terraform • CloudFormation • Jenkins • ArgoCD • Linux • Bash scripting • Prompt scripting
+**DevOps & Infrastructure:** Git • Docker • Kubernetes • CI/CD Pipelines• GitHub Actions • Terraform • CloudFormation • Jenkins • ArgoCD • Linux • Bash scripting • Prompt scripting
 
-**Design & Architecture:**  
-API Design • Database Design • Performance Optimization • Scalable Patterns • SaaS Platform • Microservices 
+**Design & Architecture:** API Design • Database Design • Performance Optimization • Scalable Patterns • SaaS Platform • Microservices 
 
 
 ## 🚀 What I'm Currently Doing
