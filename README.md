@@ -129,10 +129,10 @@ Pabna University of Science and Technology, Pabna, Bangladesh
 
 ## 🚀 What I'm Currently Doing
 
-- 🔭 Building scalable web application for SaaS platforms
-- 🌱 Exploring cloud architecture patterns and Kubernetes optimization
-- 👯 Open to collaborating on innovative projects
-- 💬 Happy to discuss backend architecture, system design, and best practices
+- Building scalable web application for SaaS platforms
+- Exploring cloud architecture patterns and Kubernetes optimization
+- Open to collaborating on innovative projects
+- Happy to discuss backend architecture, system design, and best practices
 
 ## 📫 Let's Connect!
 
