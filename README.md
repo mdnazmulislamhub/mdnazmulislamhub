@@ -35,8 +35,8 @@ Passionate Full-Stack Software Engineer with 5+ years of experience designing an
 
 ## 💼 Professional Experience
 
-#### Software Engineer @ **Cloudly Infotech Ltd.**
-###### Feb 2022 - Present | Dhaka, Bangladesh
+### Software Engineer @ **Cloudly Infotech Ltd.**
+##### Feb 2022 - Present | Dhaka, Bangladesh
 
 **Core Responsibilities:**
 - Design and develop high-performance backend RESTful APIs
@@ -70,8 +70,8 @@ Passionate Full-Stack Software Engineer with 5+ years of experience designing an
 - **Monitoring**: Sentry for activity logs and performance consistency
 
 
-#### Junior Software Engineer @ **Logic Infotech Ltd.**
-###### Sep 2020 - Feb 2022 | Dhaka, Bangladesh
+### Junior Software Engineer @ **Logic Infotech Ltd.**
+##### Sep 2020 - Feb 2022 | Dhaka, Bangladesh
 
 **Responsibilities:**
 - Developed full-stack web application features
