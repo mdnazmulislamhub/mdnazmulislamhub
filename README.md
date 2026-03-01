@@ -45,7 +45,7 @@ Passionate Full-Stack Software Engineer with 5+ years of experience designing an
 - Database design and optimization for scalability
 - Module-based development with modern technologies
 
-##### **Featured Projects:**
+##### **Notable Projects:**
 
 **🔹 Instacircle - Community Management System**
 - **Backend**: NestJS, TypeScript, PostgreSQL, Firebase, Redis, AWS S3
